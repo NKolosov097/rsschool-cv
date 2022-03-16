@@ -1,1 +1,1 @@
-https://NKolosov097.github.io/rsschool-cv/c
+https://NKolosov097.github.io/rsschool-cv/cv
