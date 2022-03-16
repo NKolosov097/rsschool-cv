@@ -1,1 +1,8 @@
-
+Kolosov Nikita
+GitHub: NKolosov097 Twitter: NKolosov097 Discord: Nikita Kolosov(@NKolosov097) Telegram: NKolosov097
+My name is Nikita Kolosov. I am a 2nd year student. I am studying to be a system analyst. Goals for 2022: become an trainee at EPAM, then become a JUNIOR developer in the frontend, understand complex algorithms, learn from the experience of the best developers. I have two strengths: I learn from mistakes (for me, every mistake is either an opportunity or a good lesson), I make at least 100 attempts before stopping. My entire experience consists of university projects and projects I have done for myself (some of them can be found on my GitHub). Everyday I try to fulfill a minimal training plan (read books, do assignments, listen to podcasts), because there is no other way in programming.
+I know several programming languages well: C, Python, HTML, CSS, JavaScript I know well with functional and imperative methodologies, but I like to use the second methodology. Now I am studying OOP. Code examples can be viewed in my GitHub
+Code examples can be viewed on my GitHub
+My work experience consists entirely of educational projects and projects that I have done for myself. I made small games: snake, puzzle, tests, but I did not put them anywhere because they are very simple. I also wrote websites. The code of one of the sites can be found on my GitHub (site - Mnogo).
+Now I am studying in the second year of the institute. I am studying to be a systems analyst. In parallel, I take courses on Hexlet.io and courses on RSSchool. I devote a lot of time to reading special literature (Donald Knuth - The Art of Programming; Aditya Bhargava - Grok algorithms; Tanenbaum, Weatherall - computer networks)
+(A2) My English level is enough to read literature fluently and to communicate on everyday topics.
